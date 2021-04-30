@@ -1,0 +1,1 @@
+print('Teste do Pycharm no Ubunto')
